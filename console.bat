@@ -49,7 +49,7 @@ goto begin
 :: Begin Post-Introductory / EULA Code
 
 :: Scipt's Note
-:: Schools can block access to the command prompt through the conventional
+:: Schools and workplaces can block access to the command prompt through the conventional
 :: method; restricting acces via simple=minded routes, i.e. the Command Prompt
 :: shortcut / application in the Windows files (which should be blocked but are also
 :: easily bypassed.... but, I digress) or by using the Run Dialog and entering cmd.exe, etc.
