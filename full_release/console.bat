@@ -117,8 +117,6 @@ echo info - Displays R-CMD app information.
 echo ver - Displays current R-CMD version info
 echo       and gives the user the option to check
 echo       for updates.
-:: echo gypsum.connect ip:port - Connects to the
-:: echo       Remote Terminal of said IP and Port.
 echo.
 echo.
 pause
