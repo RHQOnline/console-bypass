@@ -79,7 +79,6 @@ if "%do%" == "help" goto chelp
 if "%do%" == "info" goto info
 if "%do%" == "ver" goto GCMDVer
 if "%do%" == "exit" goto exit
-if "%do%" == "gypsum.connect 201.97.169.31:5051" goto prehack_orion
 %do%
 goto do
 
