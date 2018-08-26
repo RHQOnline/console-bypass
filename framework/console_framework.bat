@@ -10,12 +10,9 @@ echo *For Educational Use Only
 echo.
 
 :do
-set /p do=""
-if %do% == "chelp" goto chelp
-::if %do% == "" goto
-::if %do% == "" goto       FILL IN THESE CUSTOM COMMANDS
-::if %do% == "" goto       MAKE YOUR OWN AND INPUT THEM AND MAKE FUNCTIONS FOR THEM
-::if %do% == "" goto
+set /p do="%cd%>"
+if "%do%" == "begin" goto intro
+if "%do%" == "quit" goto quit
 %do%
 goto do
 
