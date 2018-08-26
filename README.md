@@ -29,6 +29,8 @@ Update 1 - 20180826 1400
 
 ## Raw Downloads
 
-| Version | Download |
+> ONLY DOWNLOAD FROM THESE LINKS (OFFICIAL DOWNLOADS)
+
+| Console Version | Download Link |
 |---------|----------|
-| Version 1  | TBA      |
+| Version 1  | LINK TBA  |
