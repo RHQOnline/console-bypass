@@ -1,6 +1,7 @@
 # Windows Command Prompt Bypass
 Microsoft Windows Command Prompt Bypass for Administrated Networks
-Independently Developed and Distributed
+
+Independently Developed and Distributed by [Rusty](https://www.github.com/RHQ-Rusty).
 
 # User Agreements
 Users take full responsibility for all actions performed using this tool.
@@ -21,6 +22,17 @@ either administration or law enforcement / federal can be taken upon the creator
 of the program at any point in time.
 
 # Miscellaneous Information
+
+## Current Support
+
+| Windows Version | Functionality |
+|---------|----------|
+| Windows XP  | UNTESTED |
+| Windows Vista  | UNTESTED |
+| Windows 7  | Full Functionality |
+| Windows 8 | Full Functionality |
+| Windows 8.1  | Full Functionality |
+| Windows 10  | UNTESTED |
 
 ## Changelong
 
