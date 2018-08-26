@@ -8,9 +8,7 @@ Users take full responsibility for all actions performed using this tool.
 The creator is in no way responsible for any legal trouble the user may get into due to their irresponsible actions.
 
 ## End User License Agreement (EULA)
-**This program was created for strict educational purposes.**
-
-If scrolling down or reading any of the content / code below, you acknowledge...
+> **This program was created for strict educational purposes. If scrolling down or reading any of the content / code within, you acknowledge...**
 
 
 
