@@ -29,8 +29,9 @@ echo By Pressing a Key / Continuing, You Hereby Agree To and Acknowledge...
 echo ------------------------------------------------------------------------
 echo.
 echo I am not an active instructor or administration official within
-echo my school district. No disciplinary or law enforcement / federal actions
-echo will be taken against the project manager and creator.
+echo my school district / place of employment. No disciplinary or
+echo law enforcement / federal actions will be taken
+echo against the project manager and creator.
 echo.
 echo.
 echo This product was made anonymously for educational purposes only.
